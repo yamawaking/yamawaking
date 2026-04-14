@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Dancing.png" alt="Man Dancing" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Dancing.png" alt="Man Dancing" width="500" height="500" />
 
 <!--
 **yamawaking/yamawaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
