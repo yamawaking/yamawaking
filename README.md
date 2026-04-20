@@ -1,3 +1,5 @@
+Welcome to Kosei Yamawaki's github.
+Here is my profile. English version is under construction.
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Dancing.png" alt="Man Dancing" width="500" height="500" />
 
 <!--
